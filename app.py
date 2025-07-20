@@ -46,6 +46,5 @@ def task():
         else:
             print("Invalid choice. Please enter a number between 1 and 5.\n")
 
-# ✅ This line should be correct
 if __name__ == "__main__":
     task()
